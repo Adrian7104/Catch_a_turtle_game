@@ -14,7 +14,7 @@ spot_shape = "turtle"
 spot_size = 3.0
 score = 0  
 font_setup = ("Arial", 20, "normal")
-time = 5
+time = 30
 counter_interval = 1000  
 timer_up = False
 
